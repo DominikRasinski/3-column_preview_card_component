@@ -61,7 +61,18 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div class="grid-wrapper">
+    <section class="Sedans">
+      <img src="/images/icon-sedans.svg" alt="Icon of sedan">
+      <h1>Sedans</h1>
+      <p>
+        Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city
+        or on your next road trip.
+      </p>
+      <button>Learn More</button>
+    </section>
+  ...More code
+</div>
 ```
 ```css
 .proud-of-this-css {
