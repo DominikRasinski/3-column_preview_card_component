@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.grid-wrapper{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 5%;
+}
+.grid-wrapper section{
+    padding: 15%;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.grid-wrapper section:first-child{
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+}
+.grid-wrapper section:last-child{
+    border-bottom-left-radius:  10px;
+    border-bottom-right-radius: 10px;
+}
+.grid-wrapper section img{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.grid-wrapper section p{
+    color: hsla(0, 0%, 100%, 0.75)
+}
+h1{
+    text-transform: uppercase;
+    margin-bottom: 10%;
+    font-size: 2rem;
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+}
+.grid-wrapper button{
+    width: 150px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 15px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: hsl(0, 0%, 95%);
+}
+.grid-wrapper .Sedans{
+    background-color: hsl(31, 77%, 52%);
+}
+.grid-wrapper .Sedans button{
+    color:hsl(31, 77%, 52%);
+}
+.grid-wrapper .SUVs{
+    background-color: hsl(184, 100%, 22%);
+}
+.grid-wrapper .SUVs button{
+    color: hsl(184, 100%, 22%);
+}
+.grid-wrapper .Luxury{
+    background-color: hsl(179, 100%, 13%);
+}
+.grid-wrapper .Luxury button{
+    color: hsl(179, 100%, 13%);
+}

@@ -1,0 +1,58 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.grid-wrapper{
+    display: flex;
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.grid-wrapper section{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.grid-wrapper section img{
+    position: absolute;
+    top: 5%;
+    left: 0;
+    padding-left: 15%;
+}
+.grid-wrapper section h1{
+    position: absolute;
+    top: 30%;
+    left: 0;
+    padding-left: 15%;
+}
+.grid-wrapper section p{
+    position: absolute;
+    top: 40%;
+    left: 0;
+    padding: 0 15% 0 15%;
+}
+.grid-wrapper section button{
+    position: absolute;
+    top: 60%;
+    left: 0;
+    margin: 25% 0 0 15%;
+}
+.grid-wrapper section button:active{
+    background-color: transparent;
+    border: 2px solid hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 95%);
+}
+.grid-wrapper section:first-child{
+    border-top-left-radius:  0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.grid-wrapper section:last-child{
+    border-bottom-left-radius:  0;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
