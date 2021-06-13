@@ -75,8 +75,11 @@ To see how you can add code snippets, see below:
 </div>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.grid-wrapper{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 5%;
 }
 ```
 ```js
