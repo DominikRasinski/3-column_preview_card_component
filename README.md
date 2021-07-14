@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://3-column-preview-card-component-4lccvk7u3-dominikrasinski.vercel.app/)
+- Live Site URL: [3-column-preview-card-component-blue-psi.vercel.app](https://3-column-preview-card-component-4lccvk7u3-dominikrasinski.vercel.app/)
 
 ## My process
 
