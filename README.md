@@ -80,8 +80,6 @@ In this challenge I was practiced my skills mappings of loyout from .jpeg files,
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Continued development
 
 What I must to polish, on this project I was saw how bad I know media queries, so in next projects I must learn more about media queries.
@@ -100,5 +98,4 @@ What I must to polish, on this project I was saw how bad I know media queries, s
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
 
