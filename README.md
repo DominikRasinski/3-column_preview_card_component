@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [www.frontendmentor](https://www.frontendmentor.io/solutions/tree-column-compoment-page-PY07LwRCY)
 - Live Site URL: [3-column-preview-card-component-blue-psi.vercel.app](https://3-column-preview-card-component-4lccvk7u3-dominikrasinski.vercel.app/)
 
 ## My process
